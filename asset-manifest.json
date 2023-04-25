@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GPT-DnD/static/css/main.073c9b0a.css",
+    "main.js": "/GPT-DnD/static/js/main.9e0d4dd9.js",
+    "static/js/787.c3532663.chunk.js": "/GPT-DnD/static/js/787.c3532663.chunk.js",
+    "static/media/logo.svg": "/GPT-DnD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GPT-DnD/index.html",
+    "main.073c9b0a.css.map": "/GPT-DnD/static/css/main.073c9b0a.css.map",
+    "main.9e0d4dd9.js.map": "/GPT-DnD/static/js/main.9e0d4dd9.js.map",
+    "787.c3532663.chunk.js.map": "/GPT-DnD/static/js/787.c3532663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9e0d4dd9.js"
+  ]
+}
